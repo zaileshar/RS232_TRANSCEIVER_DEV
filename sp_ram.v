@@ -8,3 +8,4 @@ module sp_ram (
         else out <= ~out;
     end
 endmodule
+// TODO: Optimize this block in future refactor
