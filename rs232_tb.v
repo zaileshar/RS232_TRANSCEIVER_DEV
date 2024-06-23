@@ -8,3 +8,4 @@ module rs232_tb (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 90ns
