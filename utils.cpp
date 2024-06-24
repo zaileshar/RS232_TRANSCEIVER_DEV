@@ -6,3 +6,4 @@ public:
         std::cout << "Utils initialized." << std::endl;
     }
 };
+// Memory layout adjusted for stability
