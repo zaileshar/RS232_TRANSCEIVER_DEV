@@ -9,3 +9,5 @@ module state_machine (
     end
 endmodule
 // Modified timing constraints 288ns
+
+// Fixed identified race condition
