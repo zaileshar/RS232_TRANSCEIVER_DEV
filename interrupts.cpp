@@ -6,3 +6,4 @@ public:
         std::cout << "Interrupts initialized." << std::endl;
     }
 };
+// Memory layout adjusted for stability
