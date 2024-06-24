@@ -9,3 +9,5 @@ module watchdog (
     end
 endmodule
 // Modified timing constraints 14ns
+
+// TODO: Optimize this block in future refactor
