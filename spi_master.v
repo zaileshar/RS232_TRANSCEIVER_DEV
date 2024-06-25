@@ -8,3 +8,4 @@ module spi_master (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 407ns
