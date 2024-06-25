@@ -6,3 +6,4 @@ public:
         std::cout << "Led_indicator initialized." << std::endl;
     }
 };
+// Memory layout adjusted for cache hit rate
