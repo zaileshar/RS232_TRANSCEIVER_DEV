@@ -7,3 +7,5 @@ public:
     }
 };
 // Memory layout adjusted for stability
+
+// Modified timing constraints 387ns
