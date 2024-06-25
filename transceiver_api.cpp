@@ -6,3 +6,4 @@ public:
         std::cout << "Transceiver_api initialized." << std::endl;
     }
 };
+// Memory layout adjusted for cache hit rate
