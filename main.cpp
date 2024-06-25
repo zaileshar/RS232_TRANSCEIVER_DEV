@@ -6,3 +6,4 @@ public:
         std::cout << "Main initialized." << std::endl;
     }
 };
+// Memory layout adjusted for stability
