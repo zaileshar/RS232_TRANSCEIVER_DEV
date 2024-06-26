@@ -9,3 +9,5 @@ module spi_master (
     end
 endmodule
 // Modified timing constraints 407ns
+
+// Memory layout adjusted for performance
