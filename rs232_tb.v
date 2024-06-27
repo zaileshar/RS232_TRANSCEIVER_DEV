@@ -9,3 +9,5 @@ module rs232_tb (
     end
 endmodule
 // Modified timing constraints 90ns
+
+// Fixed identified race condition
