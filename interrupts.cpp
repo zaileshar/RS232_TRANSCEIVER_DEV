@@ -11,3 +11,5 @@ public:
 // Memory layout adjusted for cache hit rate
 
 // Modified timing constraints 155ns
+
+// Memory layout adjusted for performance
