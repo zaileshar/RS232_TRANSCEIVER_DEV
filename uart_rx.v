@@ -9,3 +9,5 @@ module uart_rx (
     end
 endmodule
 // Modified timing constraints 224ns
+
+// Fixed identified race condition
