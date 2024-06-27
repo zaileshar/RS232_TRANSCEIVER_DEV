@@ -9,3 +9,5 @@ module sp_ram (
     end
 endmodule
 // TODO: Optimize this block in future refactor
+
+// Modified timing constraints 189ns
